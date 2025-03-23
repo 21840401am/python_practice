@@ -6,6 +6,7 @@ set1 = {1, 2, 2.0, True, 3.34, False, "Python"}
 # Get all the available methods for a set
 # print(dir(set))
 
+
 # We can't access the values of a set using index or slicing
 # we need to convert it to a list and can go a head, order may vary
 
