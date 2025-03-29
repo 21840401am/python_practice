@@ -1,5 +1,5 @@
 import sys
-
+from functions import factorial
 program_name = sys.argv[0]
 a = sys.argv[1]
 b = int(sys.argv[2])
@@ -36,6 +36,8 @@ def suare_root(b):
     return b*b
 
 print(suare_root(b))
+
+print(factorial(8))
 
 
 

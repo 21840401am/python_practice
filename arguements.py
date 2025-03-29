@@ -28,3 +28,17 @@ def square_root(a):
 
 # Calling the function
 print(square_root(a))
+
+env = sys.argv[1]
+if env == 'DEV':
+    print("run dev code ")
+elif env == 'SIT':
+    print("run SIT code ")
+elif env == 'UAT':
+    print("run UAT code ")
+elif env == 'PERF':
+    print("run PERF code ")
+elif env == 'PROD':
+    print("run PROD code ")
+else:
+    print("Environment not passed ")
