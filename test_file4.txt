@@ -1,0 +1,1 @@
+Currently we have 35 keywords in python
