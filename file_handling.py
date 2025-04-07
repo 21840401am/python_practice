@@ -57,3 +57,5 @@ with open("C:\\Users\\sonti\\Downloads\\paramtech\\test_file7.txt", "x") as f:
 
 
 
+
+

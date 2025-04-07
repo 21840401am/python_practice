@@ -215,7 +215,7 @@ def outer_function():
     print("printing the x of outer function", x)
 
 # outer_function()
-
+map
 x = 18
 
 def outer_function():
@@ -238,6 +238,10 @@ def outer_function():
 # 9
 # print(x) # 9
 
+
+class member:
+    def add_two_num(self, a,b):
+        return  a + b
 
 
 
